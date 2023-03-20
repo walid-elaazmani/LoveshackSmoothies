@@ -31,6 +31,26 @@ public class LoveShack {
     void order() {
         Scanner sc = new Scanner(System.in);
 
+        int foodIteration = 0;
+        int maxFood = 4;
+        System.out.println("Order or Compose:");
+
+
+        while (foodIteration < maxFood) {
+            System.out.println("choose from following: Citrus, StrawberryDream, BananaSlide or VeggieSlurry");
+            String answer2 = sc.nextLine();
+            answer2 = answer2.toUpperCase();
+            if(answer2 != null) {
+                foodIteration++;
+            } else {
+                System.out.println("Error try again");
+            }
+            if(answer2.equals("Exit")) {
+                foodIteration = maxFood;
+            }
+
+        }
+
 
       for (int i = 0; i < 4; i++) {
 
@@ -153,7 +173,7 @@ public class LoveShack {
     double customOrder() {
 
 
-        totalPrice = 0;
+         totalPrice = 0;
 
         Stream.of(orders)
                 .filter(Objects::nonNull)

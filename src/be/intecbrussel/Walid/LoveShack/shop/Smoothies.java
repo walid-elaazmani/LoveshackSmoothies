@@ -5,6 +5,8 @@ import be.intecbrussel.Walid.LoveShack.mixables.vegetables.Celery;
 import be.intecbrussel.Walid.LoveShack.mixables.vegetables.Spinach;
 import be.intecbrussel.Walid.LoveShack.mixables.fruit.*;
 
+import java.util.stream.Stream;
+
 public enum Smoothies {
 
     CITRUS( new Food[]  {new Orange(1), new Orange(6), new Lemon(2)}),
@@ -38,6 +40,7 @@ public enum Smoothies {
 
         }
         return totalPrice = r;
+
     }
 
     public Food[] getRecipe() {
@@ -48,6 +51,7 @@ public enum Smoothies {
     public void setRecipe(Food[] recipe) {
 
         Smoothies.CUSTOM.recipe = recipe;
+
 
     }
 }

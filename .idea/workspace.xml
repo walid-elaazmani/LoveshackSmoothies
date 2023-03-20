@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9fadf566-c96f-413d-b945-d45324ba0fa4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LoveshackSmoothies.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/Mixables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/Vegetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/mixables/fruit/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/mixables/fruit/Banana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/mixables/fruit/Lemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/mixables/fruit/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/mixables/fruit/StrawBerry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/mixables/vegetables/Celery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/mixables/vegetables/Spinach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/shop/LoveShack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/shop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/shop/Smoothies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/shop/LoveShack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/shop/LoveShack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/shop/Smoothies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/Walid/LoveShack/shop/Smoothies.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Walid/Desktop/Intec Java/Opdracht_ErrorSystem"
+    "last_opened_file_path": "C:/Users/Walid/Desktop/Intec Java/icecreamshop"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
